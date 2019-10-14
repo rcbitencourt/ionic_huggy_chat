@@ -1,5 +1,7 @@
 {
   "name": "NativeBridge",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
